@@ -22,4 +22,4 @@ fi
 $VIRTUALENV/bin/pip install -r requirements.txt
 
 # Запуск нашего приложения
-$VIRTUALENV/bin/python3 alice1.py
+$VIRTUALENV/bin/python3 alice-2-game.py
